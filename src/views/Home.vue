@@ -60,7 +60,6 @@ export default {
   },
   methods: {
     action(action) {
-      console.log(action);
       action === "downloadApp" ? this.downloadApp() : this.openMenu();
     },
     openMenu() {
