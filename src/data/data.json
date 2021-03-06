@@ -1,0 +1,94 @@
+[
+  {
+    "name": "CM24",
+    "background": "bg-warning",
+    "image": "https://cdn.dribbble.com/users/992274/screenshots/11257182/media/9805caa66e481751f8242165e96e0c07.jpg",
+    "buttons": [
+      {
+        "text": "View Menu",
+        "action": "openMenu",
+        "color": "danger",
+        "icon": "journal-richtext"
+      },
+      {
+        "text": "Download App",
+        "action": "downloadApp",
+        "color": "success",
+        "icon": "phone"
+      }
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/us/app/the-official-liverpool-fc-app/id332227346",
+      "android": "https://play.google.com/store/apps/details?id=tv.liverpoolfc&hl=en_SG"
+    }
+  },
+  {
+    "name": "Tulbagh",
+    "background": "bg-success",
+    "image": "https://cdn.dribbble.com/users/59897/screenshots/8930950/media/e9a33b2709d73d544eaafaee2f250816.png",
+    "buttons": [
+      {
+        "text": "View Menu",
+        "action": "openMenu",
+        "color": "warning",
+        "icon": "journal-richtext"
+      },
+      {
+        "text": "Download App",
+        "action": "downloadApp",
+        "color": "danger",
+        "icon": "phone"
+      }
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/za/app/tulbagh-tourism/id1118669089",
+      "android": "https://play.google.com/store/apps/details?id=za.co.indigo.tulbaghh&hl=en_SG"
+    }
+  },
+  {
+    "name": "Tulbagh",
+    "background": "bg-success",
+    "image": "https://cdn.dribbble.com/users/59897/screenshots/8930950/media/e9a33b2709d73d544eaafaee2f250816.png",
+    "buttons": [
+      {
+        "text": "View Menu",
+        "action": "openMenu",
+        "color": "warning",
+        "icon": "journal-richtext"
+      },
+      {
+        "text": "Download App",
+        "action": "downloadApp",
+        "color": "danger",
+        "icon": "phone"
+      }
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/za/app/tulbagh-tourism/id1118669089",
+      "android": "https://play.google.com/store/apps/details?id=za.co.indigo.tulbaghh&hl=en_SG"
+    }
+  },
+  {
+    "name": "Franschhoek",
+    "background": "bg-primary",
+    "image": "https://cdn.dribbble.com/users/1006212/screenshots/7159271/media/f8647d47e6c1358494a6c1baaad18734.png",
+    "buttons": [
+      {
+        "text": "View Menu",
+        "action": "openMenu",
+        "color": "warning",
+        "icon": "journal-richtext"
+      },
+      {
+        "text": "Download App",
+        "action": "downloadApp",
+        "color": "success",
+        "icon": "phone"
+      }
+    ],
+    "store": {
+      "ios": "https://apps.apple.com/za/app/franschhoek-wine-valley/id1122961680",
+      "android": "https://play.google.com/store/apps/details?id=co.za.indigo.franschoek&hl=en_SG"
+    }
+  }
+]
